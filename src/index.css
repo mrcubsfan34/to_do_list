@@ -1,0 +1,13 @@
+* {
+  margin: 0px;
+  padding: 0px;
+  box-sizing: border-box;
+}
+
+html,
+body {
+  background-color: linear-gradient(90deg, #15F534, #E37BE3, #E8211B);
+  font-size: 1.1rem;
+  font-family: 'Amiri', 'serif';
+  height: 100px;
+}
